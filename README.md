@@ -5,6 +5,7 @@
 With the Maxellwell Community Garden, Morgan Academy High School and Dundee Central Library Code Club I have been helping develop a small scale DIY hydroponics system. We have encorporated the project into a plastic box which while the system is in use this will be used as the water resovare.
 
 ## Parts List
+
 * 1 x Half-sized breadboard
 * 1 x Raspberry Pi Pico W
 * 1 x Plastic Storage box
@@ -16,4 +17,13 @@ With the Maxellwell Community Garden, Morgan Academy High School and Dundee Cent
 * 1 x Solar Panel (**Optional**)
 * Some wood and Dowel rods for the frame
 
+## To Do List
 
+- [X] Write Water Pump Code
+- [] Test Water Pump Code
+- [] Write code for the moisture sensor
+- [] Test code for the moisture sensor
+- [] Write code for the water level sensor
+- [] Test code for the water level sensor
+- [] Write code for the LEDs
+- [] Test code for the LEDs

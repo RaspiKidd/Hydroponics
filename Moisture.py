@@ -12,8 +12,8 @@ while True:
     if substrate.read_u16() == min_moisture:
         #pump_on()
         print("Plants need watered")
-        sleep = 0.5
+        sleep = 500
     elif substrate.read_u16() == max_moisture:
         #pump_off()
         print ("Enough Water")
-        sleep = 0.5
+        sleep = 500

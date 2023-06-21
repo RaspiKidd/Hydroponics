@@ -9,4 +9,4 @@ while True:
     value = WaterLevel.read_u16()
     if value > min:
         print ("I need more water!")
-    sleep(500)
+    sleep = 500

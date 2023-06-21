@@ -53,12 +53,9 @@ We would also like to eventually use the system with different substrates, light
 ## To Do List
 
 - [X] Write Water Pump Code
-- [] Write code for the moisture sensor
-- [] Test code for the moisture sensor
+- [X] Write code for the moisture sensor
 - [] Write code for the water level sensor
-- [] Test code for the water level sensor
 - [] Write code for the LEDs
-- [] Test code for the LEDs
 
 ## Testing
 

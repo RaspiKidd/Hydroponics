@@ -55,7 +55,7 @@ We would also like to eventually use the system with different substrates, light
 - [X] Write Water Pump Code
 - [X] Write code for the moisture sensor
 - [X] Write code for the water level sensor
-- [] Write code for the LEDs
+- [X] Write code for the LEDs
 
 ## Testing
 
